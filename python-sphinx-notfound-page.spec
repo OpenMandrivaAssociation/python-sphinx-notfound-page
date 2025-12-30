@@ -3,7 +3,7 @@
 
 Name:		python-%{module}
 Version:	1.1.0
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/s/%{module}/%{uname}-%{version}.tar.gz
 Summary:	Sphinx extension to build a 404 page with absolute URLs
 URL:		https://pypi.org/project/sphinx-notfound-page/
